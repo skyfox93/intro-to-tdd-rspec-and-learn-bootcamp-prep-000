@@ -4,4 +4,4 @@ def current_age_for_birthyear(birth_year)
   end
 
 
-birth_year = gets.to_i
+
